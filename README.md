@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
  -->
 - Looking for a job with a year-end bonus
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=catundercar&show_icons=true" alt="Catundercar's Github Stats" />
